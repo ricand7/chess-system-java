@@ -10,7 +10,7 @@ public Piece(Board board) {
 	position = null;
 }
 
-protecetd Board getBoard() {
+protected Board getBoard() {
 	return board;
 }  
   
